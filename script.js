@@ -12,6 +12,7 @@ const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Nov', '
 
 const API_KEY = '2c1041b09c037cfe9a339281c09cc8aa';
 
+
 setInterval(( ) => {
     const time = new Date();
     const month = time.getMonth();
